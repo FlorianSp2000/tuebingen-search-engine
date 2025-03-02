@@ -6,9 +6,11 @@ Tübingen, integrating web crawling, information retrieval, and a modern web int
 This repository is part of the coursework deliverable for the **Modern Search Engines** course at the **University of Tübingen** during the **2024 Summer semester**.
 
 ![Pipeline](doc/pipeline.png) 
+*Search Engine Architecture: Two-Stage Retrieval Pipeline with BM25/Vector Search and Neural Reranking*
 Visualization source: [Jina AI](https://jina.ai/reranker)
 
 ![Pipeline](doc/serp_ui.png) 
+*Search Result UI: TileBars indicate content relevancy based on semantic similarity*
 
 ## Project Structure
 
